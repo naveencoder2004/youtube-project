@@ -1,0 +1,11 @@
+.duration{
+  position: absolute;
+  bottom: 10px;
+  right: 5px;
+  background-color: black;
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
+  padding: 4px;
+  border-radius: 3px;
+}
